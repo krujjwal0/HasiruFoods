@@ -1,0 +1,696 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214.985" height="103.933" viewBox="0 0 214.985 103.933">
+    <defs>
+        <style>
+            .a {
+                fill: #dde8fd;
+            }
+
+            .b {
+                fill: #d1dffb;
+            }
+
+            .c {
+                fill: #bed2fa;
+            }
+
+            .d {
+                opacity: 0.8;
+            }
+
+            .e {
+                fill: #010117;
+            }
+
+            .f {
+                fill: #6d89cf;
+            }
+
+            .g {
+                fill: #e85e5c;
+            }
+
+            .h {
+                fill: #3662c1;
+            }
+
+            .i {
+                fill: #e75755;
+            }
+
+            .j {
+                fill: #0b0754;
+            }
+
+            .k {
+                fill: #060632;
+            }
+
+            .l {
+                fill: #a83f3f;
+            }
+
+            .m {
+                fill: #15153e;
+            }
+
+            .n {
+                fill: #93b3f4;
+            }
+
+            .o,
+            .r {
+                fill: #9e332e;
+            }
+
+            .p {
+                fill: #fa7269;
+            }
+
+            .q {
+                fill: #ae4c4c;
+            }
+
+            .r {
+                opacity: 0.4;
+            }
+
+            .s {
+                fill: #fc9290;
+            }
+
+            .t {
+                fill: #ea8888;
+            }
+
+            .u {
+                fill: #a2bef6;
+            }
+
+            .v {
+                fill: #3a49cd;
+            }
+        </style>
+    </defs>
+    <g transform="translate(-854.167 -621.841)">
+        <path class="a"
+            d="M1133.323,695.9c-.009.45-.018.9-.046,1.339s-.037.872-.073,1.312a53.556,53.556,0,0,1-.66,5.476c-.092.523-.183,1.036-.284,1.541-.018.119-.046.239-.064.348l-.018.065c-.064.312-.128.614-.193.926-.119.541-.248,1.082-.376,1.605-.027.1-.055.193-.073.294-.349,1.376-.725,2.669-1.119,3.88l-.193.605c-.174.532-.348,1.036-.523,1.532-.128.358-.257.7-.376,1.027-.67,1.779-1.321,3.256-1.844,4.375-.486,1.036-.9,1.908-1.11,2.348-.092.193-.147.3-.147.3l-157.818.027H932.234a.009.009,0,0,0-.009-.009c-.128-.1-.248-.193-.367-.293h-.009c-.055-.046-.11-.083-.156-.128l-2.669-2.889a12.8,12.8,0,0,1-1.431-2.651,14.566,14.566,0,0,1-1.046-5.549c0-.091,0-.193.009-.293,0-.174.009-.358.009-.532q.014-.234.027-.467c.046-.569.11-1.137.2-1.706,0-.019.009-.037.009-.055a2.85,2.85,0,0,0,.046-.294c.018-.119.046-.238.073-.358.082-.422.183-.844.293-1.275.018-.1.046-.2.073-.3.037-.119.064-.238.11-.358.1-.376.229-.752.358-1.137.248-.734.541-1.467.871-2.21a1.405,1.405,0,0,1,.073-.174c.3-.669.633-1.33.99-2a34.553,34.553,0,0,1,1.825-3c.147-.211.293-.422.44-.623a37.844,37.844,0,0,1,2.449-3.109,46.45,46.45,0,0,1,3.513-3.632c.284-.266.569-.523.853-.78.064-.055.128-.11.193-.174.165-.137.33-.284.5-.422.7-.605,1.376-1.174,2.045-1.724.339-.275.67-.541,1-.807.651-.523,1.284-1.036,1.889-1.532a32.654,32.654,0,0,0,4.815-4.595,14.621,14.621,0,0,0,1.211-1.725,13.073,13.073,0,0,0,1.486-3.614c.073-.339.147-.688.2-1.045a16.576,16.576,0,0,0,.22-3.183,24.49,24.49,0,0,0-.22-2.935c-.027-.22-.064-.449-.1-.688a41.673,41.673,0,0,0-.881-4.228q-.165-.646-.358-1.321c-.22-.78-.394-1.55-.532-2.3a21.831,21.831,0,0,1-.358-4.229,19.2,19.2,0,0,1,.358-3.6v-.018a21.511,21.511,0,0,1,.853-3.192c4.393-12.492,19.343-19.875,23.315-21.526a62.247,62.247,0,0,1,19.325-4.164c.569-.037,1.137-.074,1.706-.1,1.605-.083,3.229-.119,4.843-.119.66,0,1.312.009,1.963.018,1.091.028,2.174.064,3.265.128,1.009.055,2.009.119,3.008.2a99.084,99.084,0,0,1,11.951,1.724,65.426,65.426,0,0,1,9.309,2.651l.009.009a52.392,52.392,0,0,1,15.629,8.979c.926.77,1.807,1.55,2.632,2.33.11.1.229.211.339.321.257.238.5.477.752.725.11.11.229.22.339.33.724.724,1.422,1.449,2.082,2.155l.981,1.064c1.743,1.926,3.284,3.724,4.751,5.274.183.2.367.385.55.578,2.522,2.568,4.861,4.311,7.722,4.5a25.426,25.426,0,0,0,6.255-.642c.239-.046.468-.091.706-.146a113.862,113.862,0,0,1,12.529-2.183,39.006,39.006,0,0,1,20.3,3.237c.238.11.468.22.706.33,1.082.523,2.174,1.1,3.274,1.752.229.128.459.266.688.4q1.678,1.032,3.4,2.293a.485.485,0,0,1,.083.065c.5.357.991.742,1.486,1.137.578.459,1.165.935,1.752,1.44,1.413,1.22,2.852,2.559,4.292,4.045,1.046,1.073,2.018,2.155,2.9,3.256.615.752,1.192,1.514,1.724,2.275.1.137.193.275.294.412a45.619,45.619,0,0,1,2.476,4.072c.083.165.174.339.266.5a41.659,41.659,0,0,1,2.394,5.677c.055.165.11.321.165.477.275.853.514,1.706.734,2.559.294,1.165.532,2.32.725,3.476A46.48,46.48,0,0,1,1133.323,695.9Z"
+            transform="translate(-65.091)" />
+        <g transform="translate(861.456 650.943)">
+            <g transform="translate(22.663 0)">
+                <path class="b"
+                    d="M1193.254,911.009v62.615h-12.877V933.489a16.576,16.576,0,0,0,.22-3.183,24.515,24.515,0,0,0-.22-2.935V911.009Z"
+                    transform="translate(-1177.479 -910.991)" />
+                <path class="a"
+                    d="M1164.475,911.009v62.615H1151.6V939.873a14.609,14.609,0,0,0,1.211-1.725,13.071,13.071,0,0,0,1.486-3.614c.073-.339.147-.688.2-1.045a16.576,16.576,0,0,0,.22-3.183,24.515,24.515,0,0,0-.22-2.935c-.027-.22-.064-.449-.1-.688a41.657,41.657,0,0,0-.881-4.228q-.165-.646-.358-1.321c-.22-.78-.394-1.55-.532-2.3a21.827,21.827,0,0,1-.358-4.229,19.2,19.2,0,0,1,.358-3.6Z"
+                    transform="translate(-1151.598 -910.991)" />
+                <path class="b" d="M1158.6,910.846a19.193,19.193,0,0,0-.358,3.6h12.208v-3.614H1158.6Z"
+                    transform="translate(-1157.577 -910.828)" />
+                <path class="b" d="M1173.648,988.7v3.623h-10.96q-.165-.646-.358-1.321c-.22-.78-.394-1.55-.532-2.3Z"
+                    transform="translate(-1160.771 -980.858)" />
+                <path class="b"
+                    d="M1189.456,1066.657v3.623H1179.7a24.518,24.518,0,0,0-.22-2.935c-.027-.22-.064-.449-.1-.688Z"
+                    transform="translate(-1176.579 -1050.964)" />
+                <path class="b" d="M1175.286,1144.619v3.614H1163.62a13.072,13.072,0,0,0,1.486-3.614Z"
+                    transform="translate(-1162.409 -1121.075)" />
+                <rect class="b" width="12.873" height="3.618" transform="translate(0.004 31.389)" />
+                <rect class="b" width="12.873" height="3.618" transform="translate(0.004 39.237)" />
+                <rect class="b" width="12.873" height="3.618" transform="translate(0.004 47.084)" />
+                <rect class="b" width="12.873" height="3.618" transform="translate(0.004 54.932)" />
+            </g>
+            <g transform="translate(2.082 33.477)">
+                <path class="b"
+                    d="M988.788,1243.256v29.157H975.911V1256.06c.147-.211.293-.422.44-.624a37.821,37.821,0,0,1,2.449-3.109,46.44,46.44,0,0,1,3.513-3.632c.284-.266.569-.523.853-.78.064-.055.128-.11.193-.174.165-.137.33-.284.5-.422.7-.605,1.376-1.174,2.045-1.724.339-.275.67-.541,1-.807C987.55,1244.265,988.183,1243.751,988.788,1243.256Z"
+                    transform="translate(-973.022 -1243.256)" />
+                <path class="a"
+                    d="M960.1,1266.483V1293.3H947.222v-11.18a1.405,1.405,0,0,1,.073-.174c.3-.669.633-1.33.99-2a34.553,34.553,0,0,1,1.825-3c.147-.211.293-.422.44-.624a37.821,37.821,0,0,1,2.449-3.109,46.44,46.44,0,0,1,3.513-3.632c.284-.266.569-.523.853-.78.064-.055.128-.11.193-.174.165-.137.33-.284.5-.422C958.751,1267.6,959.43,1267.033,960.1,1266.483Z"
+                    transform="translate(-947.222 -1264.144)" />
+                <path class="b"
+                    d="M1043.068,1266.483v3.1h-3.586c.284-.266.569-.523.853-.78.064-.055.128-.11.193-.174.165-.137.33-.284.5-.422C1041.72,1267.6,1042.4,1267.033,1043.068,1266.483Z"
+                    transform="translate(-1030.191 -1264.144)" />
+                <path class="b" d="M989.831,1333.332v3.109h-9.548a37.821,37.821,0,0,1,2.449-3.109Z"
+                    transform="translate(-976.954 -1324.261)" />
+                <path class="b"
+                    d="M960.1,1400.181v3.109H947.222v-.935a1.405,1.405,0,0,1,.073-.174c.3-.669.633-1.33.99-2Z"
+                    transform="translate(-947.222 -1384.378)" />
+                <rect class="b" width="12.873" height="3.106" transform="translate(0.001 22.545)" />
+            </g>
+            <rect class="a" width="5.392" height="7.863" transform="translate(40.012 60.711)" />
+            <path class="c"
+                d="M1436.66,1023.2v-4.856h-1.474v-8.35h-7.9v8.35h-7.39v-13.606h-8.154v8.832h-1.86v-10.545h-8.154v19.771h-10.313v11.529h-3.853v2.9h-8.851v-5h-5.082v-13.59h-6.277v25.087h-6.277v21.83h81.888V1023.2Z"
+                transform="translate(-1317.312 -993.736)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(84.407 10.619)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(84.407 14.403)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(84.407 17.808)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(94.419 17.808)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(94.419 14.403)" />
+            <rect class="b" width="8.159" height="2.014" transform="translate(94.419 11.004)" />
+            <rect class="b" width="18.173" height="2.014" transform="translate(84.407 21.109)" />
+            <rect class="b" width="18.173" height="2.014" transform="translate(84.407 24.41)" />
+            <rect class="b" width="6.333" height="3.109" transform="translate(50.038 24.898)" />
+            <rect class="b" width="6.333" height="3.11" transform="translate(50.038 29.523)" />
+            <rect class="b" width="6.333" height="3.109" transform="translate(50.038 34.147)" />
+            <rect class="b" width="6.333" height="3.11" transform="translate(50.038 38.994)" />
+            <rect class="b" width="6.333" height="3.11" transform="translate(50.038 43.691)" />
+            <rect class="b" width="6.333" height="3.11" transform="translate(50.038 48.389)" />
+            <rect class="b" width="6.333" height="3.109" transform="translate(50.038 53.303)" />
+            <rect class="b" width="18.173" height="1.279" transform="translate(84.407 27.637)" />
+            <rect class="b" width="2.335" height="13.589" transform="translate(56.283 24.898)" />
+            <rect class="b" width="4.697" height="5.001" transform="translate(61.395 38.487)" />
+            <path class="b" d="M1945.161,1020.1h1.621v13.6h-1.619Z" transform="translate(-1842.583 -1009.092)" />
+            <rect class="b" width="0.995" height="10.538" transform="translate(92.566 9.284)" />
+            <g class="d" transform="translate(75.784 31.039)">
+                <rect class="b" width="1.382" height="1.948" />
+                <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                <g transform="translate(12.421)">
+                    <rect class="b" width="1.382" height="1.948" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                </g>
+                <g transform="translate(24.916)">
+                    <rect class="b" width="1.382" height="1.948" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    <g transform="translate(12.421)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    </g>
+                </g>
+                <g transform="translate(0 3.438)">
+                    <rect class="b" width="1.382" height="1.948" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    <g transform="translate(12.421)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    </g>
+                    <g transform="translate(24.916)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        <g transform="translate(12.421)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(0 6.824)">
+                    <rect class="b" width="1.382" height="1.948" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    <g transform="translate(12.421)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    </g>
+                    <g transform="translate(24.916)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        <g transform="translate(12.421)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(0 10.421)">
+                    <rect class="b" width="1.382" height="1.948" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                    <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    <g transform="translate(12.421)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                    </g>
+                    <g transform="translate(24.916)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        <g transform="translate(12.421)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        </g>
+                    </g>
+                    <g transform="translate(0 3.438)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        <g transform="translate(12.421)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        </g>
+                        <g transform="translate(24.916)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                            <g transform="translate(12.421)">
+                                <rect class="b" width="1.382" height="1.948" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(0 6.824)">
+                        <rect class="b" width="1.382" height="1.948" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                        <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        <g transform="translate(12.421)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                        </g>
+                        <g transform="translate(24.916)">
+                            <rect class="b" width="1.382" height="1.948" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                            <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                            <g transform="translate(12.421)">
+                                <rect class="b" width="1.382" height="1.948" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(2.585)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(5.112)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(7.508)" />
+                                <rect class="b" width="1.382" height="1.948" transform="translate(9.951)" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <rect class="b" width="32.04" height="17.285" transform="translate(66.091 54.388)" />
+            <rect class="b" width="32.04" height="8.643" transform="translate(41.796 63.031)" />
+            <rect class="b" width="32.04" height="14.592" transform="translate(100.7 57.082)" />
+            <rect class="a" width="5.97" height="3.201" transform="translate(68.232 56.412)" />
+            <rect class="a" width="5.97" height="3.201" transform="translate(75.895 56.412)" />
+            <rect class="a" width="5.97" height="3.201" transform="translate(83.411 56.412)" />
+            <rect class="a" width="5.97" height="3.201" transform="translate(90.784 56.412)" />
+            <rect class="c" width="3.075" height="17.434" transform="translate(97.799 54.388)" />
+            <rect class="c" width="3.075" height="20.806" transform="translate(135.947 51.017)" />
+            <rect class="c" width="3.301" height="14.451" transform="translate(132.74 57.082)" />
+            <g transform="translate(121.494 51.099)">
+                <path class="a"
+                    d="M2214.273,1475.518c-.085.229-.293.364-.463.3a.4.4,0,0,1-.154-.53.623.623,0,1,1,.617.23Z"
+                    transform="translate(-2205.501 -1468.677)" />
+                <path class="a" d="M2197.592,1419.448a.344.344,0,1,1-.616-.23.623.623,0,1,1,.616.23Z"
+                    transform="translate(-2190.5 -1418.253)" />
+                <path class="a" d="M2133.653,1504a.344.344,0,1,1-.616-.23.623.623,0,1,1,.616.23Z"
+                    transform="translate(-2133 -1494.288)" />
+            </g>
+            <path class="a"
+                d="M2190.921,1593.334s-.593,1.28.562,1.374a2.017,2.017,0,0,0,2.124-.937s-1.437.593-1.218-.125a17.045,17.045,0,0,1,.781-1.874s-1.217,2.187-1.824,2.082C2191.075,1593.808,2190.921,1593.334,2190.921,1593.334Z"
+                transform="translate(-2063.458 -1523.2)" />
+            <rect class="a" width="0.167" height="1.353" transform="translate(51.299 23.545)" />
+            <rect class="a" width="0.167" height="1.353" transform="translate(57.282 23.545)" />
+            <rect class="a" width="17.634" height="20.567" transform="translate(118.407 50.966)" />
+            <rect class="a" width="0.326" height="4.17" transform="translate(134.533 46.847)" />
+            <g transform="translate(118.407 54.805)">
+                <rect class="a" width="21.999" height="14.795" transform="translate(0 1.933)" />
+                <rect class="b" width="21.999" height="4.809" />
+                <g transform="translate(1.498 6.234)">
+                    <rect class="b" width="1.13" height="1.592" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    <g transform="translate(10.152)">
+                        <rect class="b" width="1.13" height="1.592" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    </g>
+                    <g transform="translate(0 2.81)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                    <g transform="translate(0 5.577)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                </g>
+                <rect class="c" width="0.949" height="1.643" transform="translate(1.678 1.351)" />
+                <rect class="c" width="0.949" height="1.643" transform="translate(11.104 1.351)" />
+                <rect class="c" width="0.95" height="1.643" transform="translate(18.602 1.351)" />
+            </g>
+            <g transform="translate(25.862 54.805)">
+                <rect class="a" width="21.999" height="14.795" transform="translate(0 1.933)" />
+                <rect class="b" width="21.999" height="4.809" />
+                <g transform="translate(1.498 6.234)">
+                    <rect class="b" width="1.13" height="1.592" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    <g transform="translate(10.152)">
+                        <rect class="b" width="1.13" height="1.592" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    </g>
+                    <g transform="translate(0 2.81)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                    <g transform="translate(0 5.577)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                </g>
+                <rect class="c" width="0.95" height="1.643" transform="translate(1.678 1.351)" />
+                <rect class="c" width="0.949" height="1.643" transform="translate(11.104 1.351)" />
+                <rect class="c" width="0.949" height="1.643" transform="translate(18.602 1.351)" />
+            </g>
+            <g transform="translate(2.476 54.805)">
+                <path class="a" d="M973.141,1474.226v14.794H953.807l-2.669-2.889v-11.905Z"
+                    transform="translate(-951.138 -1472.295)" />
+                <rect class="b" width="21.999" height="4.809" transform="translate(0.004)" />
+                <g transform="translate(1.502 6.234)">
+                    <rect class="b" width="1.13" height="1.592" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                    <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    <g transform="translate(10.152)">
+                        <rect class="b" width="1.13" height="1.592" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.592" transform="translate(8.133)" />
+                    </g>
+                    <g transform="translate(0 2.81)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                    <g transform="translate(0 5.577)">
+                        <rect class="b" width="1.13" height="1.593" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                        <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        <g transform="translate(10.152)">
+                            <rect class="b" width="1.13" height="1.593" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(2.113)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(4.178)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(6.137)" />
+                            <rect class="b" width="1.13" height="1.593" transform="translate(8.133)" />
+                        </g>
+                    </g>
+                </g>
+                <rect class="c" width="0.949" height="1.643" transform="translate(1.683 1.351)" />
+                <rect class="c" width="0.949" height="1.643" transform="translate(11.109 1.351)" />
+                <rect class="c" width="0.949" height="1.643" transform="translate(18.607 1.351)" />
+            </g>
+            <g transform="translate(0 54.801)">
+                <path class="a"
+                    d="M927.593,1474.226v9.255a14.566,14.566,0,0,1-1.046-5.549c0-.091,0-.193.009-.293,0-.174.009-.358.009-.532q.014-.234.027-.467c.046-.569.11-1.137.2-1.706,0-.019.009-.037.009-.055a2.847,2.847,0,0,0,.046-.294c.018-.119.046-.238.073-.358Z"
+                    transform="translate(-926.547 -1472.291)" />
+                <path class="b"
+                    d="M927.756,1455.01v4.815h-1.027q.014-.234.027-.467c.046-.569.11-1.137.2-1.706,0-.019.009-.037.009-.055a2.847,2.847,0,0,0,.046-.294c.018-.119.046-.238.073-.358.082-.422.183-.844.293-1.275.018-.1.046-.2.073-.3.037-.119.064-.238.11-.358Z"
+                    transform="translate(-926.711 -1455.01)" />
+            </g>
+        </g>
+        <path class="c"
+            d="M2027.571,1389.858q-.133.784-.284,1.547c-.023.116-.045.231-.069.346l-.012.064q-.1.465-.2.921-.182.821-.377,1.611l-.072.289c-.348,1.375-.725,2.675-1.113,3.886q-.1.3-.2.6c-.175.531-.352,1.044-.528,1.537q-.19.527-.377,1.025c-.67,1.781-1.315,3.26-1.835,4.375-.486,1.041-.9,1.911-1.115,2.349h-99.6v-20.764c7.592.583,17.676-5.816,25.026-1.886,8.325,4.452,30.027,15.6,43.871,7.539C2002.69,1386.316,2019.716,1386.622,2027.571,1389.858Z"
+            transform="translate(-960.119 -685.833)" />
+        <path class="e"
+            d="M.285,0H214.7a.285.285,0,0,1,.285.285v0A.285.285,0,0,1,214.7.57H.285A.285.285,0,0,1,0,.285v0A.285.285,0,0,1,.285,0Z"
+            transform="translate(854.167 722.332)" />
+        <path class="f"
+            d="M2742.383,1549.659h-7.069c-.379-.321.262-1.051.932-1.1a4.127,4.127,0,0,1,1.079.128c.1-1.292.653-7.1,2.747-6.867,2.354.261,0,2.558-.666,3.917a32.331,32.331,0,0,0-1.25,3.133c.191.041.389.082.591.119.312-.958,1.473-4.181,2.949-3.993,1.733.22,1.037,1.512-.192,2.279-.9.564-2.008,1.366-2.534,1.753a7.5,7.5,0,0,0,1.383.111A2.98,2.98,0,0,1,2742.383,1549.659Z"
+            transform="translate(-1691.607 -827.328)" />
+        <path class="f"
+            d="M1035.964,1561.983c-.332-.521-1.331-1.875-2.662-1.7-1.45.2,1.6,1.151,2.536,1.7a1.554,1.554,0,0,1-.517-.06,3.485,3.485,0,0,0-2.036.354h5.946a.942.942,0,0,0-.425-.544,1.064,1.064,0,0,0-.547-.049c.354-.417.6-1.748-.385-1.406-.719.25-.717,1.064-.646,1.545-.153.024-.308.048-.461.07-.3-1.509-1.343-5.93-3.465-6.048-2.151-.12,1.824,4.586,3.148,6.09C1036.278,1561.961,1036.115,1561.976,1035.964,1561.983Z"
+            transform="translate(-160.53 -839.949)" />
+        <path class="g"
+            d="M1229.345,1171.943a11.609,11.609,0,0,0-11.611,11.611c0,6.411,11.611,20.664,11.611,20.664a102.67,102.67,0,0,0,8.7-12.657c1.669-2.99,2.908-5.916,2.908-8.007A11.614,11.614,0,0,0,1229.345,1171.943Zm0,16.913a5.466,5.466,0,1,1,1.183-.138A5.022,5.022,0,0,1,1229.345,1188.856Z"
+            transform="translate(-326.955 -494.705)" />
+        <path class="g"
+            d="M2748.578,1340.908a5.153,5.153,0,0,0-5.153,5.153c0,2.846,5.153,9.174,5.153,9.174s5.153-6.328,5.153-9.174A5.153,5.153,0,0,0,2748.578,1340.908Zm0,7.51a2.409,2.409,0,1,1,2.409-2.409A2.409,2.409,0,0,1,2748.578,1348.418Z"
+            transform="translate(-1699.004 -646.655)" />
+        <path class="h"
+            d="M1073.862,1399.041a2.822,2.822,0,0,0-2.822,2.822c0,1.559,2.822,5.024,2.822,5.024s2.822-3.465,2.822-5.024A2.822,2.822,0,0,0,1073.862,1399.041Zm0,4.113a1.319,1.319,0,1,1,1.319-1.319A1.319,1.319,0,0,1,1073.862,1403.154Z"
+            transform="translate(-195.033 -698.933)" />
+        <g transform="translate(906.745 709.983)">
+            <path class="f"
+                d="M1384.076,1509.451s2.023-6.037,7.818-7.2,10.084,3.375,15.248,1.607,13.3-11.129,22.987-4.288,9.051,8.789,15.16,7.191,7.506,2.689,7.506,2.689Z"
+                transform="translate(-1383.29 -1497.103)" />
+            <path class="f" d="M1383.007,1532.557s-4.226-4.432-6.385-3.243S1383.007,1532.557,1383.007,1532.557Z"
+                transform="translate(-1376.271 -1525.887)" />
+            <path class="f" d="M1387.967,1567.2s-3.9-1.27-4.871-.635S1387.967,1567.2,1387.967,1567.2Z"
+                transform="translate(-1382.31 -1559.409)" />
+            <path class="f" d="M1555.53,1525.353s2.677-6.007,3.606-4.914S1555.53,1525.353,1555.53,1525.353Z"
+                transform="translate(-1537.478 -1517.97)" />
+            <path class="f" d="M1538.7,1529.44s1.093-4.4-.546-4.125S1538.7,1529.44,1538.7,1529.44Z"
+                transform="translate(-1521.299 -1522.463)" />
+        </g>
+        <g transform="translate(873.751 645.689)">
+            <path class="i"
+                d="M1223.052,904.867c-.006-.017-.134-.432-.41-1.186a.2.2,0,1,0-.385.141c.271.742.4,1.161.4,1.165a.2.2,0,0,0,.2.145.221.221,0,0,0,.06-.009A.206.206,0,0,0,1223.052,904.867Zm-.851-2.346c-.147-.373-.3-.759-.467-1.148a.2.2,0,0,0-.378.158c.162.386.317.77.463,1.139a.2.2,0,1,0,.381-.15Zm-160.313-.829c-.366-.18-.743-.357-1.12-.524a.2.2,0,1,0-.166.374c.371.166.743.339,1.1.518a.205.205,0,0,0,.181-.368Zm-2.257-1.006c-.38-.152-.768-.3-1.155-.44a.205.205,0,0,0-.138.386c.382.138.765.284,1.141.435a.211.211,0,0,0,.076.015.2.2,0,0,0,.076-.395Zm161.615-.448c-.164-.371-.335-.749-.51-1.126a.2.2,0,0,0-.371.173c.173.374.343.751.506,1.119a.2.2,0,0,0,.187.122.212.212,0,0,0,.083-.017A.2.2,0,0,0,1221.245,900.238Zm-163.938-.39c-.387-.125-.784-.246-1.181-.359a.2.2,0,0,0-.113.393c.393.112.786.232,1.169.356a.21.21,0,0,0,.063.01.207.207,0,0,0,.2-.143A.2.2,0,0,0,1057.307,899.848Zm-2.374-.679c-.395-.1-.8-.2-1.2-.284a.2.2,0,1,0-.088.4c.4.088.8.182,1.189.28a.211.211,0,0,0,.05.007.2.2,0,0,0,.05-.4Zm-2.41-.531c-.4-.076-.809-.147-1.215-.213a.205.205,0,0,0-.065.4c.4.065.808.135,1.2.211a.2.2,0,0,0,.038,0,.205.205,0,0,0,.038-.407Zm-2.436-.393c-.4-.054-.813-.1-1.224-.148a.2.2,0,0,0-.044.407c.407.044.816.094,1.215.147a.142.142,0,0,0,.027,0,.2.2,0,0,0,.027-.407Zm170.12-.249c-.178-.367-.362-.739-.548-1.107a.2.2,0,1,0-.365.185c.184.365.368.736.545,1.1a.2.2,0,1,0,.369-.179Zm-1.114-2.2c-.19-.362-.387-.727-.583-1.088a.205.205,0,0,0-.36.2c.2.358.392.722.58,1.082a.205.205,0,0,0,.182.109.209.209,0,0,0,.1-.023A.206.206,0,0,0,1219.093,895.792Zm-1.184-2.165c-.2-.356-.41-.716-.618-1.069a.205.205,0,0,0-.353.208c.207.351.414.709.615,1.063a.2.2,0,1,0,.356-.2ZM1091.62,891.55a.2.2,0,0,0-.285.049c-.236.334-.474.674-.7,1.011a.2.2,0,0,0,.338.232c.23-.336.466-.674.7-1.006A.205.205,0,0,0,1091.62,891.55Zm125.035-.049c-.215-.352-.434-.7-.652-1.047a.2.2,0,1,0-.346.219c.216.342.434.693.648,1.042a.2.2,0,1,0,.349-.213Zm-123.581-1.935a.206.206,0,0,0-.287.041c-.247.329-.493.662-.734.991a.2.2,0,0,0,.331.242c.239-.328.484-.66.729-.986A.206.206,0,0,0,1093.074,889.566Zm122.262-.15c-.225-.343-.457-.688-.685-1.026a.205.205,0,0,0-.339.23c.228.336.457.679.681,1.021a.206.206,0,0,0,.172.093.21.21,0,0,0,.112-.034A.207.207,0,0,0,1215.336,889.416Zm-120.751-1.79a.2.2,0,0,0-.288.032c-.255.319-.511.645-.762.969a.2.2,0,0,0,.036.288.208.208,0,0,0,.125.043.2.2,0,0,0,.162-.079c.25-.323.5-.647.758-.965A.2.2,0,0,0,1094.585,887.626Zm119.364-.251c-.235-.334-.477-.672-.717-1a.205.205,0,0,0-.332.241c.239.329.479.664.714,1a.2.2,0,0,0,.168.087.2.2,0,0,0,.117-.037A.205.205,0,0,0,1213.949,887.375Zm-117.8-1.644a.206.206,0,0,0-.289.024c-.263.311-.529.629-.79.946a.2.2,0,1,0,.316.26c.259-.315.524-.632.786-.941A.2.2,0,0,0,1096.152,885.731Zm116.345-.35c-.247-.327-.5-.656-.751-.979a.2.2,0,0,0-.323.252c.25.321.5.648.747.974a.2.2,0,0,0,.327-.247Zm-114.721-1.5a.205.205,0,0,0-.289.015c-.275.3-.55.614-.82.921a.205.205,0,0,0,.02.289.2.2,0,0,0,.134.051.2.2,0,0,0,.154-.07c.269-.307.543-.615.815-.917A.205.205,0,0,0,1097.777,883.884Zm113.2-.448c-.257-.32-.52-.64-.783-.953a.2.2,0,1,0-.314.262c.26.312.522.631.778.948a.206.206,0,0,0,.16.076.2.2,0,0,0,.159-.334Zm-111.523-1.346a.2.2,0,0,0-.289.006c-.285.3-.57.6-.848.895a.205.205,0,1,0,.3.279c.276-.3.56-.6.842-.891A.2.2,0,0,0,1099.457,882.09Zm109.943-.547c-.269-.311-.543-.622-.815-.926a.205.205,0,0,0-.306.274c.271.3.543.611.81.92a.205.205,0,0,0,.155.071.2.2,0,0,0,.134-.05A.205.205,0,0,0,1209.4,881.543Zm-108.206-1.193a.2.2,0,0,0-.289,0c-.291.283-.586.576-.875.868a.2.2,0,1,0,.291.288c.288-.29.581-.581.87-.864A.2.2,0,0,0,1101.194,880.349Zm106.561-.644c-.28-.3-.565-.6-.847-.9a.2.2,0,0,0-.3.284c.28.292.563.592.842.892a.2.2,0,0,0,.3-.279Zm-104.768-1.039a.206.206,0,0,0-.29-.013c-.3.275-.6.557-.9.839a.2.2,0,1,0,.281.3c.3-.279.6-.561.9-.834A.2.2,0,0,0,1102.986,878.666Zm103.059-.739c-.289-.291-.584-.582-.878-.866a.2.2,0,0,0-.285.294c.292.283.585.572.873.861a.2.2,0,0,0,.145.06.2.2,0,0,0,.144-.06A.2.2,0,0,0,1206.046,877.927Zm-101.214-.885a.205.205,0,0,0-.289-.022c-.31.265-.622.537-.93.809a.2.2,0,0,0-.017.289.2.2,0,0,0,.153.069.207.207,0,0,0,.136-.052c.306-.271.616-.541.924-.8A.205.205,0,0,0,1104.832,877.042Zm1.9-1.562a.2.2,0,0,0-.288-.032c-.32.255-.641.517-.957.778a.2.2,0,0,0-.027.288.2.2,0,0,0,.157.075.206.206,0,0,0,.131-.048c.313-.259.634-.52.951-.773A.205.205,0,0,0,1106.73,875.48Zm97.544.731c-.3-.28-.6-.561-.908-.834a.205.205,0,0,0-.275.3c.3.271.606.55.9.828a.2.2,0,1,0,.279-.3Zm-95.595-2.229a.205.205,0,0,0-.287-.041c-.326.243-.656.493-.982.745a.2.2,0,1,0,.251.324c.323-.249.652-.5.976-.741A.2.2,0,0,0,1108.68,873.982Zm93.763.577c-.309-.268-.625-.537-.938-.8a.205.205,0,1,0-.263.315c.312.261.626.529.933.795a.205.205,0,0,0,.269-.31Zm-91.763-2.007a.2.2,0,0,0-.285-.051c-.336.233-.675.472-1.007.711a.2.2,0,0,0,.239.333c.331-.239.668-.476,1-.708A.206.206,0,0,0,1110.68,872.552Zm89.871.425c-.32-.258-.646-.515-.968-.764a.2.2,0,1,0-.251.324c.319.247.643.5.962.76a.2.2,0,0,0,.128.045.2.2,0,0,0,.129-.365Zm-87.824-1.786a.205.205,0,0,0-.284-.062c-.344.222-.69.449-1.03.677a.205.205,0,0,0,.115.375.2.2,0,0,0,.113-.035c.339-.226.683-.452,1.024-.672A.205.205,0,0,0,1112.726,871.192Zm85.875.276c-.33-.245-.665-.489-1-.726a.205.205,0,1,0-.238.334c.329.235.663.478.99.722a.205.205,0,0,0,.245-.329Zm-83.782-1.566a.206.206,0,0,0-.281-.071c-.35.21-.7.425-1.052.641a.205.205,0,0,0,.108.38.2.2,0,0,0,.107-.031c.347-.215.7-.429,1.047-.637A.205.205,0,0,0,1114.819,869.9Zm81.776.133c-.339-.232-.683-.463-1.024-.688a.205.205,0,1,0-.225.343c.339.223.681.452,1.017.683a.2.2,0,0,0,.116.036.2.2,0,0,0,.169-.089A.206.206,0,0,0,1196.594,870.034Zm-79.64-1.35a.2.2,0,0,0-.279-.08c-.359.2-.72.4-1.074.6a.205.205,0,0,0,.1.383.208.208,0,0,0,.1-.027c.352-.2.711-.4,1.068-.6A.206.206,0,0,0,1116.954,868.684Zm77.58-.005c-.344-.217-.7-.435-1.05-.647a.2.2,0,0,0-.212.351c.35.211.7.428,1.043.643a.205.205,0,1,0,.219-.347Zm-75.4-1.138a.206.206,0,0,0-.276-.09c-.364.185-.732.376-1.094.567a.2.2,0,0,0,.1.386.2.2,0,0,0,.1-.024c.36-.19.726-.379,1.089-.564A.205.205,0,0,0,1119.13,867.541Zm73.291-.135c-.355-.206-.716-.409-1.074-.606a.2.2,0,1,0-.2.359c.355.2.714.4,1.067.6a.207.207,0,0,0,.1.027.2.2,0,0,0,.1-.382Zm-71.078-.933a.206.206,0,0,0-.273-.1c-.37.172-.744.35-1.113.529a.205.205,0,0,0,.09.389.207.207,0,0,0,.089-.021c.366-.178.739-.355,1.106-.525A.206.206,0,0,0,1121.344,866.473Zm68.918-.257c-.363-.191-.732-.38-1.1-.563a.2.2,0,0,0-.183.366c.362.181.729.37,1.09.559a.2.2,0,0,0,.1.024.2.2,0,0,0,.1-.386Zm-66.67-.734a.2.2,0,0,0-.269-.108c-.375.159-.756.325-1.13.491a.2.2,0,0,0,.084.392.209.209,0,0,0,.083-.017c.372-.166.751-.33,1.125-.488A.2.2,0,0,0,1123.592,865.481Zm64.465-.37c-.369-.175-.745-.351-1.118-.519a.2.2,0,1,0-.169.373c.37.168.744.341,1.11.516a.214.214,0,0,0,.089.02.205.205,0,0,0,.088-.39Zm-62.184-.545a.205.205,0,0,0-.265-.118c-.382.148-.767.3-1.146.453a.205.205,0,0,0,.077.395.2.2,0,0,0,.077-.016c.377-.152.761-.3,1.14-.45A.2.2,0,0,0,1125.873,864.566Zm59.939-.471c-.376-.161-.759-.321-1.137-.475a.2.2,0,1,0-.154.379c.376.153.756.312,1.13.472a.2.2,0,0,0,.08.016.2.2,0,0,0,.081-.393Zm-57.628-.368a.2.2,0,0,0-.261-.126c-.386.134-.776.274-1.161.414a.205.205,0,0,0,.07.4.209.209,0,0,0,.071-.012c.382-.14.77-.279,1.155-.412A.206.206,0,0,0,1128.183,863.727Zm2.336-.764a.205.205,0,0,0-.257-.134c-.392.122-.787.249-1.174.376a.205.205,0,0,0,.064.4.2.2,0,0,0,.065-.011c.384-.126.777-.252,1.167-.374A.206.206,0,0,0,1130.519,862.963Zm53.008.2c-.38-.146-.769-.291-1.155-.431a.2.2,0,0,0-.14.385c.384.139.771.284,1.148.429a.208.208,0,0,0,.073.013.2.2,0,0,0,.074-.4Zm-50.649-.891a.205.205,0,0,0-.252-.143c-.4.11-.793.224-1.184.339a.2.2,0,0,0,.057.4.208.208,0,0,0,.058-.008c.388-.115.785-.228,1.179-.337A.2.2,0,0,0,1132.879,862.275Zm48.331.052c-.387-.132-.781-.261-1.171-.386a.2.2,0,0,0-.125.39c.388.124.779.253,1.164.383a.2.2,0,0,0,.066.012.205.205,0,0,0,.066-.4Zm-45.951-.664a.205.205,0,0,0-.248-.151c-.4.1-.8.2-1.195.3a.2.2,0,0,0,.052.4.187.187,0,0,0,.052-.007c.393-.1.793-.2,1.188-.3A.206.206,0,0,0,1135.259,861.663Zm43.6-.086c-.391-.117-.789-.232-1.184-.342a.205.205,0,0,0-.11.4c.393.109.789.223,1.177.339a.211.211,0,0,0,.059.009.205.205,0,0,0,.058-.4Zm-41.2-.454a.2.2,0,0,0-.243-.158l-.564.122q-.321.07-.639.143a.2.2,0,0,0,.045.4.224.224,0,0,0,.046,0c.211-.048.423-.1.636-.142l.561-.122A.2.2,0,0,0,1137.656,861.123Zm38.83-.207c-.394-.1-.8-.2-1.2-.3a.2.2,0,1,0-.1.4c.4.1.8.194,1.189.3a.226.226,0,0,0,.052.007.2.2,0,0,0,.051-.4Zm-36.419-.279a.205.205,0,0,0-.24-.162c-.4.076-.806.156-1.208.238a.2.2,0,0,0,.04.406.234.234,0,0,0,.041,0c.4-.081.806-.161,1.2-.238A.2.2,0,0,0,1140.067,860.638Zm34.022-.294c-.4-.088-.8-.173-1.206-.253a.2.2,0,1,0-.08.4c.4.079.8.165,1.2.252a.2.2,0,0,0,.044,0,.2.2,0,0,0,.044-.4Zm-31.6-.137a.205.205,0,0,0-.236-.168c-.4.068-.811.139-1.214.211a.2.2,0,0,0,.036.406.184.184,0,0,0,.037,0c.4-.072.808-.143,1.209-.211A.2.2,0,0,0,1142.488,860.207Zm29.185-.349c-.4-.073-.811-.144-1.215-.211a.205.205,0,0,0-.066.4c.4.065.807.136,1.207.209a.194.194,0,0,0,.037,0,.2.2,0,0,0,.037-.406Zm-26.756-.028a.2.2,0,0,0-.232-.173c-.4.058-.814.12-1.218.184a.2.2,0,0,0,.031.407l.033,0c.4-.063.811-.124,1.213-.183A.206.206,0,0,0,1144.917,859.829Zm2.438-.318a.206.206,0,0,0-.228-.18c-.4.049-.815.1-1.222.155a.2.2,0,0,0,.026.408l.027,0c.407-.054.816-.106,1.218-.154A.205.205,0,0,0,1147.355,859.512Zm21.886-.054c-.4-.059-.814-.116-1.221-.168a.2.2,0,1,0-.053.407c.4.052.813.108,1.214.167l.03,0a.205.205,0,0,0,.03-.408Zm-19.664-.389c-.407.039-.819.08-1.226.124a.205.205,0,0,0,.022.409l.022,0c.406-.043.816-.085,1.22-.124a.2.2,0,0,0-.039-.407Zm17.22.072c-.407-.046-.819-.089-1.226-.127a.2.2,0,0,0-.039.407c.4.039.814.082,1.219.127l.023,0a.205.205,0,0,0,.023-.409Zm-14.765-.273c-.406.028-.82.058-1.229.092a.2.2,0,0,0,.016.409h.017c.407-.034.819-.065,1.223-.093a.2.2,0,1,0-.028-.408Zm12.312.039c-.406-.033-.819-.062-1.229-.088a.2.2,0,0,0-.217.191.205.205,0,0,0,.191.218c.408.025.82.055,1.223.087h.016a.2.2,0,0,0,.017-.409Zm-9.852-.174c-.406.016-.82.037-1.23.059a.205.205,0,0,0,.011.41h.011c.409-.022.821-.042,1.225-.058a.205.205,0,0,0-.017-.41Zm7.392.018c-.407-.02-.821-.036-1.232-.049a.2.2,0,0,0-.013.41c.408.013.82.03,1.225.048h.01a.2.2,0,0,0,.01-.409Zm-4.926-.085h0c-.407,0-.821.013-1.232.025a.2.2,0,0,0,0,.41h.006c.409-.012.822-.02,1.226-.025a.2.2,0,0,0,0-.41Zm2.462,0c-.408-.007-.823-.011-1.232-.011h0a.2.2,0,0,0,0,.41c.407,0,.819,0,1.226.011h0a.2.2,0,0,0,0-.41Z"
+                transform="translate(-1048.636 -858.66)" />
+        </g>
+        <g transform="translate(937.244 655.608)">
+            <g transform="translate(61.129 35.337)">
+                <path class="h" d="M2286.622,1316.676l-.465-.379,6.236-8.15,2.25-.094Z"
+                    transform="translate(-2286.156 -1308.053)" />
+            </g>
+            <g transform="translate(53.061 35.337)">
+                <path class="h" d="M2206.43,1316.676l-.385-.379,5.159-8.15,1.862-.094Z"
+                    transform="translate(-2206.045 -1308.053)" />
+            </g>
+            <g transform="translate(0 18.261)">
+                <path class="h" d="M1831.751,1157.753a2.735,2.735,0,1,1,2.735,2.8A2.768,2.768,0,0,1,1831.751,1157.753Z"
+                    transform="translate(-1816.382 -1153.294)" />
+                <path class="h"
+                    d="M1923.016,1524.3H1895.21a.553.553,0,0,1-.549-.553v-2.628a.553.553,0,0,1,.549-.553h24.563a.553.553,0,0,1,.549.553Z"
+                    transform="translate(-1872.957 -1482.087)" />
+                <circle class="j" cx="8.31" cy="8.31" r="8.31" transform="translate(46.862 40.153) rotate(-45)" />
+                <path class="f" d="M2219.12,1499.384a4.236,4.236,0,1,1,4.236,4.236A4.236,4.236,0,0,1,2219.12,1499.384Z"
+                    transform="translate(-2164.742 -1459.231)" />
+                <g transform="translate(0 27.849)">
+                    <path class="h"
+                        d="M1695.037,1415.6a12.3,12.3,0,0,0-15.883,9.891,1.6,1.6,0,0,0,1.588,1.839h.054a1.021,1.021,0,0,0,1.014-.929,9.555,9.555,0,0,1,19.065.929h2.749A12.324,12.324,0,0,0,1695.037,1415.6Z"
+                        transform="translate(-1679.137 -1415.027)" />
+                </g>
+                <g transform="translate(9.313 8.771)">
+                    <path class="h"
+                        d="M1790.955,1255.289l-4.164,1.677c-2.883-5.607-5.828-8.358-8.346-9.715-4.531-2.443-7.684-.374-6.622-2.3l7.772-16.4a7.139,7.139,0,0,1,6.456-2.941,2.322,2.322,0,0,1,1.98,3.045,28.317,28.317,0,0,0-1.409,9.005A41,41,0,0,0,1790.955,1255.289Z"
+                        transform="translate(-1771.616 -1225.583)" />
+                </g>
+                <path class="h"
+                    d="M1882.414,1158.321l-3.136-1.2c-.427,0-1.241.386-1.241-.041l.465-7.659a.778.778,0,0,1,.776-.776h2.022a2.46,2.46,0,0,1,2.017,2.351l.538,7.721C1883.854,1159.145,1882.841,1158.321,1882.414,1158.321Z"
+                    transform="translate(-1858.007 -1147.623)" />
+                <path class="h"
+                    d="M1.477,0H21.61a1.476,1.476,0,0,1,1.476,1.476v0A1.477,1.477,0,0,1,21.61,2.953H1.477A1.477,1.477,0,0,1,0,1.477v0A1.477,1.477,0,0,1,1.477,0Z"
+                    transform="translate(55.839 14.502)" />
+                <circle class="j" cx="8.31" cy="8.31" r="8.31" transform="translate(0.433 40.153) rotate(-45)" />
+                <path class="c"
+                    d="M1766.537,1499.386a4.216,4.216,0,0,1-.488,1.975c-.02.039-.041.076-.063.114a4.236,4.236,0,1,1-5.312-6l.049-.02a4.236,4.236,0,0,1,5.815,3.93Z"
+                    transform="translate(-1750.117 -1459.234)" />
+                <path class="h" d="M2066.663,1352.139s3.24,7.217-4,15.062h16.7l-2.266-17.174Z"
+                    transform="translate(-2024.042 -1328.724)" />
+                <path class="h"
+                    d="M2169.834,1386.124a1.1,1.1,0,0,1-1.1,1.1h-26.658a1.1,1.1,0,0,1-1.1-1.1l.354-17.435,8.977-.55C2162.266,1368.139,2169.834,1374.167,2169.834,1386.124Z"
+                    transform="translate(-2094.469 -1345.012)" />
+                <path class="g" d="M1847.656,1142.785a4.293,4.293,0,0,1-4.3,4.3v-8.6A4.3,4.3,0,0,1,1847.656,1142.785Z"
+                    transform="translate(-1826.818 -1138.485)" />
+                <g transform="translate(22.389 2.618)">
+                    <path class="j"
+                        d="M1906.7,1166.744c-.017,0-.2-.035-.212-.038l-4.731-1.312a.456.456,0,0,1-.29-.52c.028-.25.2-.424.39-.387l4.742.926c.188.036.337.322.382.568C1907.052,1166.393,1906.865,1166.744,1906.7,1166.744Z"
+                        transform="translate(-1901.461 -1164.482)" />
+                </g>
+                <path class="g"
+                    d="M1695.331,1253.721q.065.4.124.769l-.036-.017a9.554,9.554,0,0,0-13.607,7.7,1.021,1.021,0,0,1-1.014.929h-.054a1.6,1.6,0,0,1-1.588-1.839,12.335,12.335,0,0,1,9.452-10.162l.049-.012,7.772-16.4a7.117,7.117,0,0,1,2.738-2.283,32.468,32.468,0,0,0-4.129,18.965q.088.99.241,2.015C1695.3,1253.5,1695.312,1253.61,1695.331,1253.721Z"
+                    transform="translate(-1679.137 -1222.951)" />
+                <path class="g"
+                    d="M2.112,0H16.558A2.112,2.112,0,0,1,18.67,2.112v0a2.112,2.112,0,0,1-2.112,2.112H2.112A2.112,2.112,0,0,1,0,2.112v0A2.112,2.112,0,0,1,2.112,0Z"
+                    transform="translate(41.803 19.191)" />
+                <path class="k"
+                    d="M2175.813,1436.106h-25.645s-1.565-9.5,4.207-12.7a8.622,8.622,0,0,1,5.039-.852C2165.41,1423.14,2172.961,1428.221,2175.813,1436.106Z"
+                    transform="translate(-2102.56 -1393.894)" />
+                <path class="l"
+                    d="M1847.584,1189.033a4.3,4.3,0,0,1-4.228,3.509v-2.4A6.161,6.161,0,0,0,1847.584,1189.033Z"
+                    transform="translate(-1826.818 -1183.943)" />
+                <path class="l"
+                    d="M2107.529,1333.28h-12.46a.82.82,0,0,1-.817-.817v-2.59a.82.82,0,0,1,.817-.817h8.536A20.885,20.885,0,0,0,2107.529,1333.28Z"
+                    transform="translate(-2052.448 -1309.864)" />
+                <path class="m"
+                    d="M2258.935,1436.614h-10.651c-6.429-3.262-6.036-11.133-5.748-13.554C2248.532,1423.647,2256.083,1428.729,2258.935,1436.614Z"
+                    transform="translate(-2185.681 -1394.402)" />
+                <path class="n"
+                    d="M1765.985,1504.38a4.236,4.236,0,1,1-5.312-6C1761.042,1500.214,1762.227,1503.611,1765.985,1504.38Z"
+                    transform="translate(-1750.117 -1462.138)" />
+                <path class="l"
+                    d="M1779.9,1253.721q.065.4.124.769l-.036-.017c-1.535-1.419-4.777-2.676-6.811-3.369l.049-.012,7.772-16.4a7.117,7.117,0,0,1,2.738-2.283,32.468,32.468,0,0,0-4.129,18.965q.088.99.241,2.015C1779.866,1253.5,1779.882,1253.61,1779.9,1253.721Z"
+                    transform="translate(-1763.707 -1222.951)" />
+            </g>
+            <g transform="translate(57.555 21.816)">
+                <rect class="o" width="13.276" height="10.947" transform="translate(13.276 10.947) rotate(180)" />
+                <rect class="p" width="13.276" height="10.947" transform="translate(6.638 0)" />
+                <path class="p" d="M2250.738,1245.861h2.1l-.185-.592.185-.423h-2.1Z"
+                    transform="translate(-2250.731 -1237.69)" />
+                <path class="q" d="M2329.857,1181.046v3.689h-13.276v-10.947h2.352Z"
+                    transform="translate(-2309.943 -1173.788)" />
+                <path class="r" d="M2429.63,1189.106h-2.1l.185-.592-.185-.423h2.1Z"
+                    transform="translate(-2409.716 -1186.65)" />
+                <path class="p" d="M2429.63,1255.939h-2.1l.185-.592-.185-.423h2.1Z"
+                    transform="translate(-2409.716 -1246.753)" />
+            </g>
+            <g transform="translate(25.193 0)">
+                <path class="s"
+                    d="M2117.074,1026.949c2.3.932,6.491-1.061,6.491-1.061a5.886,5.886,0,0,1-1.658-3.568c-.014-.118-.024-.238-.031-.361l-1.186-.422-2.033,1.384a15.749,15.749,0,0,0,.023,1.872c.012.208.028.431.05.67A4.123,4.123,0,0,0,2117.074,1026.949Z"
+                    transform="translate(-2098.165 -1015.054)" />
+                <path class="t"
+                    d="M2132.645,1022.922a15.749,15.749,0,0,0,.023,1.872,4.858,4.858,0,0,0,3.227-2.474c-.014-.118-.024-.238-.031-.361l-1.186-.422Z"
+                    transform="translate(-2112.154 -1015.054)" />
+                <path class="s"
+                    d="M2115.312,984.892s3.953-.129,3.835-2.589.313-4.134-2.216-4.156-2.974.941-3.134,1.771S2114.28,984.862,2115.312,984.892Z"
+                    transform="translate(-2095.195 -976.032)" />
+                <path class="j"
+                    d="M2119.383,969.211a1.846,1.846,0,0,0-.291-1.358s.287-.8-.021-.982-.469.506-.6.377a3.369,3.369,0,0,1-.917-1.536c-.184-.8-2.925-.227-3.249-.13s1.819-3.9,4.132-2.954,2.487,2.134,2.22,3.1S2120.409,969.013,2119.383,969.211Z"
+                    transform="translate(-2095.641 -961.944)" />
+                <path class="u"
+                    d="M1992.331,1251.567s-.274,4.829-1.373,6.2-22.171.842-22.171.842-.092-3.1.733-3.892,4.672-3.083,16.958-4.379Z"
+                    transform="translate(-1964.808 -1220.816)" />
+                <path class="g"
+                    d="M2095.261,1061.987c-.344,4.147.109,10.456-.281,11.549-.336.943-4.169.382-5.7.068-.566-.117-1.252-.283-1.96-.48-1.975-.549-4.128-1.333-4.359-1.916a.4.4,0,0,1-.021-.067.468.468,0,0,1,0-.244c.057-.22.235-.453.337-.857a2.49,2.49,0,0,0,.072-.5c.036-.751.034-1.624.06-2.564,0-.086.006-.173.008-.26,0-.117,0-.245.017-.361v-.043c0-.022,0-.044,0-.066.033-1.159.1-2.377.179-3.585.025-.377.051-.751.081-1.121.009-.131.02-.261.03-.39.02-.242.04-.482.062-.718a27.007,27.007,0,0,1,.712-4.555,7.306,7.306,0,0,1,2.617-3.627l.729-.562a4.66,4.66,0,0,0,2.646-.316c.941-.4,1.266-.69,1.43-.581C2094.1,1052.3,2095.667,1056.916,2095.261,1061.987Z"
+                    transform="translate(-2067.456 -1041.343)" />
+                <path class="v"
+                    d="M1978.163,1481.6s-.187,3.006-.768,3.049c-.078.006-2.95.006-2.95.006l-3.666-.021a1.19,1.19,0,0,1,1.1-1.07,4.97,4.97,0,0,0,3.515-2.356C1976.072,1479.713,1978.163,1481.6,1978.163,1481.6Z"
+                    transform="translate(-1966.603 -1427.913)" />
+                <path class="u"
+                    d="M1977.161,1329.424a4.041,4.041,0,0,1-2.153.615A5.805,5.805,0,0,1,1974,1330a4.805,4.805,0,0,1-1.294-.331l-3.89-16.326s4.214-3.682,6.413-1.393a3.869,3.869,0,0,1,.74,1.492C1977.361,1317.941,1977.161,1329.424,1977.161,1329.424Z"
+                    transform="translate(-1964.834 -1275.545)" />
+                <path class="l"
+                    d="M2092.3,1130.745s-2.728,9.989-5.844,11.207a2.509,2.509,0,0,0,.072-.5c.036-.751.034-1.624.06-2.564l.008-.26c0-.117,0-.245.018-.361v-.043c0-.022,0-.044,0-.066.033-1.159.1-2.376.178-3.585.025-.376.052-.751.081-1.121A6.58,6.58,0,0,1,2092.3,1130.745Z"
+                    transform="translate(-2070.629 -1113.254)" />
+                <path class="s"
+                    d="M1934.609,1162.007a7.958,7.958,0,0,1-1.493,0c-.306-.092-1.741-.947-2.26-.764s-1.832,1.527-1.5,2.138a1.725,1.725,0,0,0,1.176-.565c.565-.58,1.176-.183,1.115-.107s-.947.427-.794.58a2.6,2.6,0,0,0,1.588-.061,9.481,9.481,0,0,1,2.321.046Z"
+                    transform="translate(-1929.305 -1140.668)" />
+                <path class="g"
+                    d="M1982.182,1078.236s-7.388,6.3-9.333,6.905-8.816,1.943-8.816,1.943-.189,1.627.455,2.238c0,0,8.829-.512,9.928-.745s9.291-4.478,9.959-4.8S1984.939,1077.717,1982.182,1078.236Z"
+                    transform="translate(-1960.512 -1066.012)" />
+                <path class="n"
+                    d="M2023.452,1349.441a4.041,4.041,0,0,1-2.153.615,5.805,5.805,0,0,1-1.011-.04c2.219-2.806,1.97-16.558,1.97-16.558C2023.651,1337.959,2023.452,1349.441,2023.452,1349.441Z"
+                    transform="translate(-2011.125 -1295.563)" />
+                <path class="g"
+                    d="M2096.455,961.092v.038a.26.26,0,0,1-.115.23.148.148,0,0,1-.072.02H2086.9c-.1,0-.188-.113-.188-.25v-.038c0-.137.084-.25.188-.25l2.092-.268a3.889,3.889,0,0,1,2.592-3.259h0a3.409,3.409,0,0,1,1.048-.164,3.8,3.8,0,0,1,3.661,3.612l.006.07.039.029A.261.261,0,0,1,2096.455,961.092Z"
+                    transform="translate(-2070.861 -957.151)" />
+                <path class="l"
+                    d="M2136.808,960.763c.7-3.694-1.626-3.457-1.7-3.448a3.409,3.409,0,0,1,1.048-.164,3.8,3.8,0,0,1,3.661,3.612Z"
+                    transform="translate(-2114.379 -957.151)" />
+            </g>
+        </g>
+        <path class="a"
+            d="M2271.484,1573.213s7.689-1.938,9.858-4.281,4.044.312,2.638,1.8S2271.484,1573.213,2271.484,1573.213Z"
+            transform="translate(-1274.588 -850.881)" />
+        <path class="a"
+            d="M2474.14,1559.382h-10.776a.484.484,0,0,1-.483-.483h0a.484.484,0,0,1,.483-.483h10.776a.484.484,0,0,1,.483.483h0A.484.484,0,0,1,2474.14,1559.382Z"
+            transform="translate(-1446.711 -842.259)" />
+        <path class="a"
+            d="M2469,1541.918h-5.861a.263.263,0,0,1-.262-.262h0a.263.263,0,0,1,.262-.263H2469a.263.263,0,0,1,.262.263h0A.263.263,0,0,1,2469,1541.918Z"
+            transform="translate(-1446.711 -826.95)" />
+        <path class="l"
+            d="M1238.049,1214.742a102.67,102.67,0,0,1-8.7,12.657s-11.611-14.252-11.611-20.664a11.6,11.6,0,0,1,4.292-9.016,28.915,28.915,0,0,0,2.3,6.824,5.419,5.419,0,0,0,5.017,7.493,5.022,5.022,0,0,0,1.183-.138A17.642,17.642,0,0,0,1238.049,1214.742Z"
+            transform="translate(-326.955 -517.885)" />
+    </g>
+</svg>

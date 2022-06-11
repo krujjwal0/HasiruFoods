@@ -1,0 +1,60 @@
+import { StyleSheet, Text, View } from 'react-native'
+import React from 'react'
+import { useState } from 'react'
+import MetropolisText from 'MetropolisText'
+import ExpandLessIcon from '_icons/ExpandLessIcon'
+import ExpandMoreIcon from '_icons/ExpandMoreIcon'
+import TickIcon from '_icons/TickIcon'
+import Dropdown from '_formElements/Dropdown'
+
+const SelectQuantity = () => {
+  const [open, setOpen] = useState(false)
+  const [value, setValue] = useState(null)
+  const [items, setItems] = useState([
+    { label: '1Kg', value: 1 },
+    { label: '2Kg', value: 2 },
+    { label: '3Kg', value: 3 },
+    { label: '4Kg', value: 4 },
+  ])
+  return (
+    <View style={styles.root}>
+      <MetropolisText medium style={styles.text}>
+        Quantity:
+      </MetropolisText>
+      <Dropdown
+        open={open}
+        value={value}
+        items={items}
+        setOpen={setOpen}
+        setValue={setValue}
+        setItems={setItems}
+        width={85}
+        dropDownStyle={styles.dropDown}
+        // fontSize={17}
+        placeholder="Kg"
+        TickIconComponent={TickIcon}
+        ArrowDownIconComponent={ExpandMoreIcon}
+        ArrowUpIconComponent={ExpandLessIcon}
+      />
+    </View>
+  )
+}
+
+const styles = StyleSheet.create({
+  root: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginHorizontal: 0,
+    maxHeight: 40,
+    marginBottom: 5,
+  },
+  text: {
+    fontSize: 18,
+    marginRight: 5,
+  },
+  dropDown: {
+    minHeight: 40,
+  },
+})
+
+export default SelectQuantity
